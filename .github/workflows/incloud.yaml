@@ -65,7 +65,8 @@ jobs:
         run: |
           wget https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt
           mkdir dirout
-          set -x ;time for i in $(cat output/active_urls.txt );do ffuf -w dicc.txt -u $i/FUZZ -t 200 -mc 200 -ac -recursion -v -of csv -o dirout/test.csv; done
+          cat output/active_urls.txt
+          set +e ;time for i in $(cat output/active_urls.txt );do ffuf -w dicc.txt -u $i/FUZZ -t 200 -mc 200 -ac -recursion -v -of csv -o dirout/test.csv; done
           ls dirout
           cat dirout/*.csv >> output/dirout.csv
         shell: bash
