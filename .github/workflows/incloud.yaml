@@ -58,6 +58,7 @@ jobs:
 
       - name: Running httpx for HTTP webservers probbing
         run: |
+          cat output/active_ports.txt
           httpx -l output/active_ports.txt -title
           httpx -l output/active_ports.txt | tee output/active_urls.txt
         shell: bash
