@@ -13,7 +13,7 @@ jobs:
       - name: Setup golang
         uses: actions/setup-go@v2
         with:
-          go-version: 1.14
+          go-version: 1.21
 
       - name: Setup Dependencies
         run: sudo apt-get install libpcap-dev git python3-pip
@@ -31,13 +31,13 @@ jobs:
         env:
           GO111MODULE: on
         run: |
-          go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
-          go get -v github.com/projectdiscovery/dnsx/cmd/dnsx
-          go get -v github.com/projectdiscovery/naabu/v2/cmd/naabu
-          go get -v github.com/projectdiscovery/httpx/cmd/httpx
-          go get -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei
-          go get -v github.com/projectdiscovery/mapcidr/cmd/mapcidr
-          go get -u github.com/ffuf/ffuf
+          go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+          go install github.com/projectdiscovery/dnsx/cmd/dnsx@latest
+          go install github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
+          go install github.com/projectdiscovery/httpx/cmd/httpx@latest
+          go install github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest
+          go install github.com/projectdiscovery/mapcidr/cmd/mapcidr@latest
+          go install github.com/ffuf/ffuf@latest
         shell: bash
 
 
@@ -86,8 +86,8 @@ jobs:
           git add output/dirout.csv
       - name: Commit results to Github
         run: |
-          git config --local user.email "admin@inbug.org"
-          git config --global user.name "inbug-team"
+          git config --local user.email "1124604220@qq.com"
+          git config --global user.name "j4m13d"
           git commit -m "InCloud Report" -a --allow-empty
       - name: Push changes
         uses: ad-m/github-push-action@master
