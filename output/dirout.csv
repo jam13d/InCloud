@@ -1,7 +1,61 @@
++CSCOE+/logon.html,https://shvpn02.sankuai.com/+CSCOE+/logon.html,,35,200,11289,1676,398,text/html; charset=utf-8,249.131093ms,
++CSCOT+/translation,https://shvpn02.sankuai.com/+CSCOT+/translation,,39,200,0,1,1,text/x-translation,268.076772ms,
 .well-known/apple-app-site-association,https://mindray.box.lenovo.com/.well-known/apple-app-site-association,,1284,200,448,155,15,application/octet-stream,217.170009ms,
 .well-known/apple-app-site-association,https://mindrayfile.box.lenovo.com/.well-known/apple-app-site-association,,1284,200,448,155,15,application/octet-stream,213.96126ms,
 .well-known/apple-app-site-association,https://minsights.box.lenovo.com/.well-known/apple-app-site-association,,1284,200,448,155,15,application/octet-stream,214.935733ms,
 .well-known/apple-app-site-association,https://minsights.extres.box.lenovo.com/.well-known/apple-app-site-association,,1284,200,448,155,15,application/octet-stream,216.973362ms,
+;/login,http://registry.meituan.com:8080/;/login,,1717,200,31948,1613,138,text/html;charset=UTF-8,343.753434ms,
+;admin/,http://registry.meituan.com:8080/;admin/,,1718,200,139,12,10,text/html;charset=UTF-8,252.344383ms,
+;json/,http://registry.meituan.com:8080/;json/,,1719,200,139,12,10,text/html;charset=UTF-8,262.170425ms,
+;login/,http://registry.meituan.com:8080/;login/,,1720,200,139,12,10,text/html;charset=UTF-8,264.929346ms,
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
 FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
 FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
 FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile
@@ -145,6 +199,7 @@ gulpfile.js,https://mindray.box.lenovo.com/gulpfile.js,,5224,200,372,38,12,appli
 gulpfile.js,https://mindrayfile.box.lenovo.com/gulpfile.js,,5224,200,372,38,12,application/x-javascript,226.21386ms,
 gulpfile.js,https://minsights.box.lenovo.com/gulpfile.js,,5224,200,372,38,12,application/x-javascript,221.939775ms,
 gulpfile.js,https://minsights.extres.box.lenovo.com/gulpfile.js,,5224,200,372,38,12,application/x-javascript,217.788385ms,
+health,http://history.sankuai.com/health,,5249,200,2,1,1,text/html; charset=utf-8,308.602688ms,
 healthz,https://mindray.box.lenovo.com/healthz,,5252,200,0,1,1,text/html,216.882096ms,
 healthz,https://mindrayfile.box.lenovo.com/healthz,,5252,200,0,1,1,text/html,215.966701ms,
 healthz,https://minsights.box.lenovo.com/healthz,,5252,200,0,1,1,text/html,214.846716ms,
@@ -158,8 +213,11 @@ js/config.js,https://mindray.box.lenovo.com/js/config.js,,5742,200,2881,407,79,a
 js/config.js,https://mindrayfile.box.lenovo.com/js/config.js,,5742,200,2881,407,79,application/x-javascript,219.978895ms,
 js/config.js,https://minsights.box.lenovo.com/js/config.js,,5742,200,2881,407,79,application/x-javascript,217.625223ms,
 js/config.js,https://minsights.extres.box.lenovo.com/js/config.js,,5742,200,2881,407,79,application/x-javascript,223.091694ms,
+login,http://registry.meituan.com:8080/login,,6014,200,31948,1613,138,text/html;charset=UTF-8,317.367168ms,
 login,https://minoris.partnerhub.lenovo.com/login,,6014,200,22191,903,201,text/html; charset=utf-8,331.611342ms,
 login.html,https://minsights.lenovo.com/login/login.html,,6022,200,2710,773,61,text/html; charset=UTF-8,554.518702ms,
+login/,http://history.sankuai.com/login/,,6033,200,248147,28736,267,text/html; charset=utf-8,624.229228ms,
+login/,http://registry.meituan.com:8080/login/,,6033,200,31948,1613,138,text/html;charset=UTF-8,327.13096ms,
 login/,https://minoris.partnerhub.lenovo.com/login/,,6033,200,22191,903,201,text/html; charset=utf-8,256.894078ms,
 login/,https://minsights.lenovo.com/login/,,6033,200,2710,773,61,text/html; charset=UTF-8,728.56044ms,
 manager/,https://mindray.box.lenovo.com/manager/,,6190,200,1381,352,51,text/html,219.020389ms,
@@ -167,6 +225,7 @@ manager/,https://mindrayfile.box.lenovo.com/manager/,,6190,200,1381,352,51,text/
 manager/,https://minsights.box.lenovo.com/manager/,,6190,200,1381,352,51,text/html,216.321905ms,
 manager/,https://minsights.extres.box.lenovo.com/manager/,,6190,200,1381,352,51,text/html,231.413133ms,
 payments,https://minoris.partnerhub.lenovo.com/payments,,6867,200,22194,903,201,text/html; charset=utf-8,1.474764731s,
+ping,http://history.sankuai.com/ping,,7252,200,2,1,1,text/html; charset=utf-8,309.531487ms,
 prod-api/druid/index.html,http://min.lenovo.service.lenovo.com.cn/prod-api/druid/index.html,,7415,200,434,14,17,text/html; charset=UTF-8,664.425061ms,
 prod-api/druid/index.html,http://mini.mail.service.lenovo.com.cn/prod-api/druid/index.html,,7415,200,434,14,17,text/html; charset=UTF-8,219.482265ms,
 prod-api/druid/index.html,https://min.lenovo.service.lenovo.com.cn/prod-api/druid/index.html,,7415,200,434,14,17,text/html; charset=UTF-8,212.89125ms,
@@ -181,6 +240,8 @@ robots.txt,https://mindrayfile.box.lenovo.com/robots.txt,,7691,200,28,3,3,text/p
 robots.txt,https://mini.mail.service.lenovo.com.cn/robots.txt,,7691,200,26,3,2,text/plain; charset=UTF-8,216.904822ms,
 robots.txt,https://minsights.box.lenovo.com/robots.txt,,7691,200,28,3,3,text/plain,219.254215ms,
 robots.txt,https://minsights.extres.box.lenovo.com/robots.txt,,7691,200,28,3,3,text/plain,215.587012ms,
+robots.txt,https://shvpn02.sankuai.com/robots.txt,,7691,200,26,3,3,text/plain; charset=utf-8,261.229385ms,
+robots.txt.dist,https://shvpn02.sankuai.com/robots.txt.dist,,7692,200,26,3,3,text/plain; charset=utf-8,195.040818ms,
 sample,https://minsights.lenovo.com/sample,,7730,200,18,1,1,application/json; charset=utf-8,366.96189ms,
 st.php,https://mindray.box.lenovo.com/st.php,,8221,200,1,1,2,text/html,218.370901ms,
 st.php,https://mindrayfile.box.lenovo.com/st.php,,8221,200,1,1,2,text/html,216.457331ms,
